@@ -15,5 +15,5 @@ A sample app to calculate your BMI. Body mass index (BMI) is a value derived fro
 
 
 # Getting Started
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view online
 [documentation](https://flutter.io/).
