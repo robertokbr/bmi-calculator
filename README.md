@@ -1,16 +1,19 @@
-# imccalculator
+# Flutter Project `2`
+A sample app to calculate your BMI. Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is universally expressed in units of kg/m2, resulting from mass in kilograms and height in metres,
 
-A new Flutter application.
+## Concepts
+- Using Scaffold and GradientAppBar;
+- Using TextFiled and Decoration;
+- Using ScrollView and RaisedButton; 
+- Using Controler, Form and Validation;
 
-## Getting Started
+## TODO List
+- Add User Stories;
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584637793.png" height="300em" /><img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584638327.png" height="300em" /> <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584638335.png" height="300em" /> <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/imc.gif" height="300em" /> 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Getting Started
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
