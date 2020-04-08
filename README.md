@@ -11,6 +11,7 @@ A sample app to calculate your BMI. Body mass index (BMI) is a value derived fro
 - Add User Stories;
 
 ## Screenshot
+<h4 align="center">
 <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584637793.png" height="300em" /> <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584638327.png" height="300em" /> <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/Screenshot_1584638335.png" height="300em" /> <img src="https://github.com/robertokbr/Flutter_BMI-Calculator./blob/master/images/imc.gif" height="300em" /> 
 
 
